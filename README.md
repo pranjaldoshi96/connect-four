@@ -4,4 +4,4 @@ Connect Four (also known as Connect 4, Four Up, Plot Four, Find Four, Captain's 
 For more details you can refer to [wikipedia](https://en.wikipedia.org/wiki/Connect_Four)
 
 ## Demo
-![Alt Text](demo.gif)
+<img src="demo.gif" alt="No Demo found">
